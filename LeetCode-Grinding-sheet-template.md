@@ -20,7 +20,18 @@
 > - Write with good style;
 > - Analyze Complexity after everything done;
 
+Say some thing about the question:
+
+``` txt
+# write my code here
+```
+
 ## Test Cases
+
+``` text
+Input:
+Output:
+```
 
 ## Summary
 
@@ -32,9 +43,16 @@
   - Algorithm:
 - Any code worth to record here?
   - Method Name, Variable Name:
+  - Useful build in method(function):
   - Algorithm implement template:
 - Did I miss any edge case? Put it here:
 - Complexity:
+  - Time: O()
+  - Space: O()
+
+``` python
+# Write the solution here
+```
 
 ## If I can't come up with an answer in 15 min...
 
