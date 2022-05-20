@@ -4,6 +4,8 @@
 
 Blind 75 （Grind 75） List -> Top 100 liked List -> Patterns for Coding Questions List  -> All medium Problems (Sorted by AC, but don't do any problem with higher dislikes than likes)  -> CodeTop（国内大厂定向高频题，后期求职前精刷）
 
+备选：NeetCode 150
+
 做题过程：
 
 - 15分钟思考，想不出来就看答案
