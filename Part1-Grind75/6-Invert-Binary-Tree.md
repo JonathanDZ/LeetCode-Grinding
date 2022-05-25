@@ -67,6 +67,7 @@ Output: []
 - Any code worth to record here?
   - Method Name, Variable Name:
   - Useful build in method(function):
+    - Use @staticmethod decorator to create a static method
   - Algorithm implement template:
 - Did I miss any edge case? Put it here:
 - Complexity:
